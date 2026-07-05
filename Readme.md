@@ -67,19 +67,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-> #### 🛒 E-Commerce Backend Platform (Production)
-> Designed and developed backend services for a live e-commerce application using **Spring Boot**, **Spring Security**, and **MySQL**, handling authentication, product catalog, and order management via RESTful APIs.
-> `Java` `Spring Boot` `Spring Security` `MySQL` `REST API`
-
-> #### 🛍️ E-Commerce Microservice Application (Production)
-> Built and deployed backend microservices for a real startup e-commerce product, focusing on modular service design, data persistence with **Hibernate/Spring Data JPA**, and API testing via **Postman**.
-> `Java` `Microservices` `Hibernate` `Spring Data JPA` `Postman`
-
-*(Update these with links to the actual repos or live demos when available.)*
-
----
 
 
 ### 📬 Let's Connect
