@@ -81,28 +81,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-subikshan&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-subikshan&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-subikshan&layout=compact&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🧠 DSA Practice
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Practitioner-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
-
-Consistently solving problems to strengthen algorithmic thinking and problem-solving skills — check out my LeetCode activity for progress.
-
----
 
 ### 📬 Let's Connect
 
