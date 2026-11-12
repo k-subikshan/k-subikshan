@@ -19,8 +19,8 @@
 ### 🚀 About Me
 
 - 🎓 Pursuing **M.Tech Integrated (2024–2029)** in Computer Science & Engineering at **VIT, Vellore**
-- 💻 Backend Developer specializing in **Java**, **Spring Boot**, and **REST API / Microservices** design
-- 🛠️ Built and shipped **two production-level e-commerce applications** in real startup environments
+- 💻 Backend Developer specializing in **Java**, **Spring Boot**,**Docker**,**Redis**,**SpringSecurity** and **REST API** design
+- 🛠️ Built **Web-Based VPS Linux Server Management System and pickme project is under developing** in real startup environments
 - 🧩 Active problem solver on **LeetCode**, sharpening Data Structures & Algorithms daily
 - 🌱 Currently deepening my knowledge of scalable backend architecture and system design
 - 📫 Reach me at **subikshan505@gmail.com**
